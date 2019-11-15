@@ -16,7 +16,7 @@ export const decrease = () => ({ type: DECREASE });
 초기 상태를 설정한다.
 */
 const initialState = {
-  counter: 0,
+  number: 0,
 };
 
 /*
